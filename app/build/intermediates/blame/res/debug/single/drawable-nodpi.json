@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/alpaltunel/Documents/InherdStudio/AndroidImageMap-master/app/build/intermediates/res/merged/debug/drawable-nodpi/usamap.png",
+        "source": "/Users/alpaltunel/Documents/InherdStudio/AndroidImageMap-master/app/src/main/res/drawable-nodpi/usamap.png"
+    },
+    {
+        "merged": "/Users/alpaltunel/Documents/InherdStudio/AndroidImageMap-master/app/build/intermediates/res/merged/debug/drawable-nodpi/gridmap.png",
+        "source": "/Users/alpaltunel/Documents/InherdStudio/AndroidImageMap-master/app/src/main/res/drawable-nodpi/gridmap.png"
+    }
+]
